@@ -91,7 +91,6 @@ const translations = {
     logoSub: "Railway Telecom",
     navHome: "Home",
     navServices: "Services",
-    navNews: "News",
     navPricing: "Pricing",
     navAbout: "About",
     navContact: "Contact",
@@ -185,16 +184,6 @@ const translations = {
     introTagline:
       "Backbone network operator,<br>the infrastructure Georgia runs on — since 2004.",
     introScroll: "Scroll",
-    newsEyebrow: "News",
-    newsH2: "Company news and updates.",
-    newsP:
-      "Information on infrastructure development, services, and company activity.",
-    newsLoading: "Loading...",
-    newsEmpty: "No news posted yet.",
-    recentNewsEyebrow: "News",
-    recentNewsH2: "Latest news.",
-    recentNewsP: "Recent updates and company information.",
-    exploreMoreBtn: "View all news →",
   },
 };
 
